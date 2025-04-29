@@ -1,1 +1,1 @@
-console.log("Hello World in Java Script language!")
+console.log("Hello World in JavaScript language for web development mainly!")
